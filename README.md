@@ -2,7 +2,7 @@
 Rishit Maiti; Current Senior at BASIS Chandler; I had a lot of fun developing these games in Python throughout high school. 
 
 Code Descriptions
-1. 3 Body Simulation - Using turtle graphics to make planetary movements between three planets (bodies).
+1. 3 Body Simulation - Used turtle graphics to simulate the planetary movements of three planets (bodies).
 2. Bricklayer - Create a brick wall based on user specifications.
 3. Caesar Cypher Project - Encrypt or decrypt a message based on a secret code.
 4. Flappy_Bird - Make a bird (turtle in this case) fly in between random pillars.
