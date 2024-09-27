@@ -1,5 +1,5 @@
 # RM_Games-in-Python
-Rishit Maiti; Current Senior at BASIS Chandler; I had a lot of fun developing these games in Python throughout high school. 
+Rishit Maiti; Current Computer Science Freshman at Arizona State University; I had a lot of fun developing these games in Python throughout high school. 
 
 Code Descriptions
 1. 3 Body Simulation - Used turtle graphics to simulate the planetary movements of three planets (bodies).
